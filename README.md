@@ -19,7 +19,7 @@ Design an intense landing page inspired by the Naruto anime.
 2. Open index.html in preferred browser.
 
 ## Preview
-![Naruto Landing Page Preview](naruto_landing_screenshot.png)
+![Naruto Landing Page Preview](naruto_landing_screenshot.PNG)
 
 ## Author
 Adithiyaa22 - adithiyaaaiml2005@gmail.com
